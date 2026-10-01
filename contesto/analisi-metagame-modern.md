@@ -7,6 +7,11 @@ Questo file raccoglie le conclusioni, i numeri chiave, le decisioni prese e le l
 
 ---
 
+## 0. Decisioni di inizio ottobre (dopo la guida aggiornata di Ross)
+
+- **Lista per Ghent: la 75 attuale di Ross** (`dati/lista_ross_attuale.md`). I 3 Fleshraker hanno una ragione di matchup (specchio, Esper Blink, Goryo's, punire la land destruction) che il goldfish non vede: la config SWS resta un test, non la scelta di default.
+- **Side di Paolo da allineare:** −1 Sire, −1 Ghost Quarter, +1 Nature's Claim, +1 Thief, +1 Warping Wail, +1 Six (i 2 slot mancanti più due cambi). Il Ghost Quarter che avevo proposto per lo specchio non ha supporto nel piano di Ross.
+
 ## 1. Stato attuale (28/09/2026)
 
 - **Evento target: RC di Ghent** (paper), previsto a ottobre 2026.
@@ -119,7 +124,7 @@ Tutti i campioni (RC + 2 Spotlight): Izzet Prowess 47% su oltre 2.200 partite.
 - **Lab build di Ross Merriam in stream (14/09):** 3 Lab, 4 Emrakul / 3 Devourer, 2 Dismember main, 1 Vexing Bauble main, 1 Shifting Woodland, 1 Gemstone main, 6 Forest, 1 Talisman, 0 Fleshraker. In side ha Ghost Quarter (per lo specchio contro Labyrinth) e Warping Wail. È convergente al consenso di Baltimore su 7 punti su 7.
 - **Scarti per carta che reggono al filtro day 2:** solo mono-verde contro splash. Ugin's Labyrinth, Devourer e Yavimaya a +8/+10 sul campione pieno spariscono in day 2: erano marcatori di liste aggiornate. Pithing Needle in main: debole.
 - **Sideboard guide:** il PDF `broodscale-guida-definitiva.pdf` (13 pagine, 21 matchup con ESCE / ENTRA / IN DRAW, tutte le colonne verificate da Paolo) è nella chat. È derivato dalla griglia di Ross Merriam rielaborata da Paolo, quindi non è riprodotto qui. Lettura della griglia: l'asterisco indica lo swap solo on the draw (tipicamente Cavern of Souls o una terra → Gemstone Caverns). Contro Affinity e Boros LD Gemstone Caverns entra sempre, anche on the play.
-- **Da verificare sulla griglia:** Esper Blink potrebbe essere 4 fuori (Broodscale, Blade, Haywire Mite, Soul-Guide Lantern) e 4 dentro (Vexing Bauble, 2 Six, Dismember). Nel PDF è 3 contro 3.
+- **Esper Blink (risolto, guida di Ross di ottobre):** resta 3 contro 3; Ross vorrebbe togliere anche il quarto Broodscale e fa entrare Sire come quarta carta se si vuole.
 
 ### Principi di gioco emersi
 - **False tempo** (Merriam): nei matchup interattivi apri con mana veloce e interazione e usa la combo come minaccia, così l'avversario deve tenere mana aperto.
