@@ -18,3 +18,8 @@ Eventi Modern dal 02/10/2025 al 10/09/2026 (24 eventi): **48-40-4, 54,5%** sui m
 - Due 4-0: 02/04/2026 (AMAZINGAMES League) e 30/07/2026 (Modern Event). Mazzo del 30/07 non ricordato.
 Primo evento con Broodscale: 17/09/2026 (confermato da Paolo). Il 3-1 del 10/09 era con il mazzo precedente.
 Con un giocatore da 52%, fare 14 o più vittorie su 19 capita circa il 5% delle volte.
+
+## Sconfitte con Broodscale (5 match)
+- Boros Energy, specchio, Esper Blink.
+- 2 non ricordate.
+Vittorie "al topdeck": 1 su 14 (01/10: terza Emrakul pescata all'ultimo turno utile).
