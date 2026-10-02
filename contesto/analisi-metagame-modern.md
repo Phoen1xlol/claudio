@@ -10,6 +10,7 @@ Questo file raccoglie le conclusioni, i numeri chiave, le decisioni prese e le l
 ## 0. Decisioni di inizio ottobre (dopo la guida aggiornata di Ross)
 
 - **Lista per Ghent: la 75 attuale di Ross** (`dati/lista_ross_attuale.md`). I 3 Fleshraker hanno una ragione di matchup (specchio, Esper Blink, Goryo's, punire la land destruction) che il goldfish non vede: la config SWS resta un test, non la scelta di default.
+- **Risultati:** vedi `dati/risultati_broodscale.md` (14-5-1 al 02/10).
 - **Side di Paolo da allineare:** −1 Sire, −1 Ghost Quarter, +1 Nature's Claim, +1 Thief, +1 Warping Wail, +1 Six (i 2 slot mancanti più due cambi). Il Ghost Quarter che avevo proposto per lo specchio non ha supporto nel piano di Ross.
 
 ## 1. Stato attuale (28/09/2026)
